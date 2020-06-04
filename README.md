@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+My name is Caitlin and I want to learn how to code just incase it comes in useful one day.
 You can use the [editor on GitHub](https://github.com/caitlingill/caitlin-coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
